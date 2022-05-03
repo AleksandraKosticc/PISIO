@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/mootensai/yii2-relation-trait.git
+	fetch = +refs/*:refs/*
+	mirror = true
